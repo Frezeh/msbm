@@ -1,0 +1,1 @@
+export const Categories = ["Development", "Finance & Accounting", "Office Productivity", "Design", "Lifestyle", "Health & Fitness", "Teaching & Academics", "Business", "IT & Software", "Personal Development", "Marketing", "Photography & Video", "Music"]
