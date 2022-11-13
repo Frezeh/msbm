@@ -1,5 +1,5 @@
-# Front-end Mobile
-> Front-end Mobile Application
+# Edtech Mobile
+> Edtech Mobile Application
 
 ### Run locally
 
